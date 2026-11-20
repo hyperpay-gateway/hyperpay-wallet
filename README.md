@@ -82,7 +82,7 @@ Every file above is attached to the [v5.6.21 release](https://github.com/hyperpa
 
 ---
 
-## What this repository is for
+## What this repository is for?
 
 This repository is the distribution point for the HyperPay Wallet desktop application, and its README is the page a reader lands on when they already know they want the wallet. It carries the three installers, the checksum table, the install steps for each platform and a short feature list, then hands the reader to the written guides. What lives here is the build and its release notes; what does not live here is the application's source, which is closed, and any description of how the code is put together.
 

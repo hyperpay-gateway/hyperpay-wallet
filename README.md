@@ -29,7 +29,7 @@ Every file above is attached to the [v5.6.21 release](https://github.com/hyperpa
 <!-- SHA256:BEGIN -->
 | Installer | SHA-256 |
 | --- | --- |
-| hyperpay-wallet-windows-v5.6.21.exe | 929ed384b4946a791500da702b656885a7e05b68aa94b8bf85cf9f21443200c1 |
+| hyperpay-wallet-windows-v5.6.21.exe | c55419e381a9eabd17b3de9adb3c2139ae1341f78b3ccdf39162b95c5f1aae56 |
 | hyperpay-wallet-macos-v5.6.21.dmg | 4fd9ef8451e33c1716513cc5569fe3b43d7ec1b7163986faa458351613fa52ab |
 | hyperpay-wallet-linux-v5.6.21.zip | dda50fe7f43a9eaecb37a99662b938fa06b8e1ad0ed82cee9a59f0cedf555f75 |
 <!-- SHA256:END -->
